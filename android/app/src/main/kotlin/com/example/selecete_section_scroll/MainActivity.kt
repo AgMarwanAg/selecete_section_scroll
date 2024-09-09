@@ -1,0 +1,5 @@
+package com.example.selecete_section_scroll
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity()
